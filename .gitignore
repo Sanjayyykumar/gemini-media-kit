@@ -1,0 +1,11 @@
+# secrets never belong in the repo
+.env
+*.key
+config.json
+settings.json
+# generated media
+out/
+*.mp4
+*.png
+*.jpg
+__pycache__/

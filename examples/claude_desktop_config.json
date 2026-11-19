@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gemini-media-kit": {
+      "command": "python",
+      "args": ["C:\\path\\to\\gemini-media-kit\\gmk.py", "mcp"]
+    }
+  }
+}
